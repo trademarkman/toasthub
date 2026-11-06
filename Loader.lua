@@ -1,7 +1,7 @@
-local REPO = "trademarkman/toast-hub"
+local REPO = "trademarkman/toasthub"
 
-local RAW = "https://raw.githubusercontent.com/" .. REPO .. "/main/"
-local SELF = 'loadstring(game:HttpGet("' .. RAW .. 'ToastHubloader.lua"))()'
+local RAW = "https://raw.githubusercontent.com/" .. REPO .. "/refs/heads/main/"
+local SELF = 'loadstring(game:HttpGet("' .. RAW .. 'Loader.lua"))()'
 
 local GAMES = {
     [994732206] = {
