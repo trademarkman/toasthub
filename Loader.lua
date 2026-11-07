@@ -33,6 +33,19 @@ local GAMES = {
         name = "Murder Mystery 2",
         url = "https://vault.pandauth.com/vss/6683d5952f12a44b",
     },
+    [2440500124] = {
+        name = "DOORS",
+        url = "https://vault.pandauth.com/vss/9536bd52f65837a3",
+        rerun = true,
+    },
+    [3620011279] = {
+        name = "Raise a Floppa 2",
+        url = "https://vault.pandauth.com/vss/9bb27e478e888a91",
+    },
+    [3808081382] = {
+        name = "The Strongest Battlegrounds",
+        url = "https://vault.pandauth.com/vss/45eda08364de6e63",
+    },
 }
 
 local function say(text)
